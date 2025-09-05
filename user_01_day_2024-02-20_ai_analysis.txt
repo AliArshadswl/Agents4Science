@@ -1,0 +1,141 @@
+AI HEALTH ANALYSIS - Robert Miller - 2024-02-20
+============================================================
+
+PATIENT PROFILE:
+Patient: Robert Miller
+Age: 63 years
+Gender: M
+BMI: 51.5
+Medical History: None reported
+Current Medications: None reported
+
+RAW DATA SUMMARY:
+HEALTH DATA SUMMARY FOR 2024-02-20
+==================================================
+
+SLEEP METRICS:
+  Total sleep: 10.7 hours
+  Deep sleep: 15min (2.3%)
+  REM sleep: 35min (5.4%)
+  Wake time: 340min (52.9%)
+
+PHYSICAL ACTIVITY:
+  Steps: 1,858
+  Calories burned: 159 kcal
+  Distance: 0.84 miles
+
+HEART RATE VARIABILITY:
+  Daily Average HRV: 11.2ms
+  Range: 5.0 - 20.0ms
+  Variability: ±3.6ms
+
+--- HOURLY HRV (ms) ---
+Average HRV at 00:00: 15.0 (Very Low (<20ms): 6)
+Average HRV at 01:00: 15.7 (Very Low (<20ms): 6)
+Average HRV at 02:00: 15.3 (Very Low (<20ms): 6)
+Average HRV at 03:00: 15.0 (Very Low (<20ms): 6)
+Average HRV at 04:00: 15.4 (Very Low (<20ms): 6)
+Average HRV at 05:00: 16.0 (Very Low (<20ms): 6)
+Average HRV at 06:00: 15.0 (Very Low (<20ms): 6)
+Average HRV at 07:00: 9.0 (Very Low (<20ms): 6)
+Average HRV at 08:00: 8.9 (Very Low (<20ms): 6)
+Average HRV at 09:00: 9.8 (Very Low (<20ms): 6)
+Average HRV at 10:00: 9.9 (Very Low (<20ms): 6)
+Average HRV at 11:00: 7.1 (Very Low (<20ms): 6)
+Average HRV at 12:00: 7.6 (Very Low (<20ms): 6)
+Average HRV at 13:00: 8.8 (Very Low (<20ms): 6)
+Average HRV at 14:00: 9.2 (Very Low (<20ms): 6)
+Average HRV at 15:00: 8.2 (Very Low (<20ms): 6)
+Average HRV at 16:00: 8.9 (Very Low (<20ms): 6)
+Average HRV at 17:00: 10.4 (Very Low (<20ms): 6)
+Average HRV at 18:00: 8.6 (Very Low (<20ms): 6)
+Average HRV at 19:00: 8.1 (Very Low (<20ms): 6)
+Average HRV at 20:00: 9.7 (Very Low (<20ms): 6)
+Average HRV at 21:00: 8.6 (Very Low (<20ms): 6)
+Average HRV at 22:00: 14.0 (Very Low (<20ms): 6)
+Average HRV at 23:00: 14.7 (Very Low (<20ms): 6)
+
+--- HRV CLINICAL INFORMATION ---
+Very Low HRV (<20ms): 144 readings (00:00–23:50)
+  Range: 5.0-20.0ms, Average: 11.2ms
+
+OXYGEN SATURATION:
+  Daily Average SpO2: 95.6%
+  Range: 92.7% - 98.7%
+
+--- HOURLY SpO₂ (%) ---
+Average SpO2 at 00:00: 94.8 (Borderline (92-95%): 3)
+Average SpO2 at 01:00: 95.8 (Borderline (92-95%): 1)
+Average SpO2 at 02:00: 95.2 (Borderline (92-95%): 3)
+Average SpO2 at 03:00: 95.7 (Borderline (92-95%): 2)
+Average SpO2 at 04:00: 96.0 (Borderline (92-95%): 2)
+Average SpO2 at 05:00: 95.5
+Average SpO2 at 06:00: 95.8 (Borderline (92-95%): 1)
+Average SpO2 at 07:00: 96.2 (Borderline (92-95%): 1)
+Average SpO2 at 08:00: 95.3 (Borderline (92-95%): 3)
+Average SpO2 at 09:00: 95.5 (Borderline (92-95%): 2)
+Average SpO2 at 10:00: 96.4 (Borderline (92-95%): 1)
+Average SpO2 at 11:00: 95.0 (Borderline (92-95%): 2)
+Average SpO2 at 12:00: 96.3 (Borderline (92-95%): 1)
+Average SpO2 at 13:00: 96.0 (Borderline (92-95%): 2)
+Average SpO2 at 14:00: 96.1 (Borderline (92-95%): 1)
+Average SpO2 at 15:00: 96.2
+Average SpO2 at 16:00: 95.4 (Borderline (92-95%): 1)
+Average SpO2 at 17:00: 95.2 (Borderline (92-95%): 3)
+Average SpO2 at 18:00: 94.8 (Borderline (92-95%): 3)
+Average SpO2 at 19:00: 96.0
+Average SpO2 at 20:00: 96.1 (Borderline (92-95%): 1)
+Average SpO2 at 21:00: 94.9 (Borderline (92-95%): 4)
+Average SpO2 at 22:00: 95.2 (Borderline (92-95%): 3)
+Average SpO2 at 23:00: 95.6 (Borderline (92-95%): 1)
+
+--- SpO₂ CLINICAL INFORMATION ---
+Borderline SpO2 (92-95%): 41 readings (00:10–23:40)
+  Range: 92.7-94.9%, Average: 94.3%
+Normal SpO2 (≥95%): 91 readings, Average: 96.2%
+
+VITAL SIGNS:
+  Daily Averages:
+    Heart rate: 109 bpm
+    Blood pressure: 193/104 mmHg
+    Blood glucose: 188 mg/dL (range: 97-329)
+
+--- HOURLY VITAL SIGNS ---
+Average at 00:00: HR 92bpm, BP 186/104mmHg, Glucose 158mg/dL (More information - HR: 3, BP: 12)
+Average at 01:00: HR 88bpm, BP 193/103mmHg, Glucose 158mg/dL (More information - BP: 12, Glucose: 1)
+Average at 02:00: HR 95bpm, BP 189/102mmHg, Glucose 168mg/dL (More information - HR: 2, BP: 12, Glucose: 1)
+Average at 03:00: HR 95bpm, BP 193/101mmHg, Glucose 144mg/dL (More information - HR: 3, BP: 12, Glucose: 1)
+Average at 04:00: HR 98bpm, BP 194/103mmHg, Glucose 198mg/dL (More information - HR: 4, BP: 12, Glucose: 5)
+Average at 05:00: HR 105bpm, BP 198/109mmHg, Glucose 193mg/dL (More information - HR: 9, BP: 12, Glucose: 4)
+Average at 06:00: HR 108bpm, BP 193/105mmHg, Glucose 193mg/dL (More information - HR: 10, BP: 12, Glucose: 5)
+Average at 07:00: HR 114bpm, BP 198/103mmHg, Glucose 278mg/dL (More information - HR: 12, BP: 12, Glucose: 11)
+Average at 08:00: HR 119bpm, BP 191/107mmHg, Glucose 226mg/dL (More information - HR: 12, BP: 12, Glucose: 10)
+Average at 09:00: HR 122bpm, BP 193/106mmHg, Glucose 179mg/dL (More information - HR: 12, BP: 12, Glucose: 4)
+Average at 10:00: HR 128bpm, BP 194/106mmHg, Glucose 170mg/dL (More information - HR: 12, BP: 12, Glucose: 1)
+Average at 11:00: HR 126bpm, BP 194/101mmHg, Glucose 169mg/dL (More information - HR: 12, BP: 12, Glucose: 1)
+Average at 12:00: HR 128bpm, BP 201/102mmHg, Glucose 232mg/dL (More information - HR: 12, BP: 12, Glucose: 11)
+Average at 13:00: HR 130bpm, BP 196/104mmHg, Glucose 206mg/dL (More information - HR: 12, BP: 12, Glucose: 6)
+Average at 14:00: HR 127bpm, BP 193/107mmHg, Glucose 188mg/dL (More information - HR: 12, BP: 12, Glucose: 3)
+Average at 15:00: HR 122bpm, BP 195/104mmHg, Glucose 176mg/dL (More information - HR: 12, BP: 12, Glucose: 2)
+Average at 16:00: HR 120bpm, BP 194/103mmHg, Glucose 172mg/dL (More information - HR: 12, BP: 12, Glucose: 1)
+Average at 17:00: HR 116bpm, BP 189/104mmHg, Glucose 166mg/dL (More information - HR: 12, BP: 12, Glucose: 2)
+Average at 18:00: HR 109bpm, BP 192/106mmHg, Glucose 167mg/dL (More information - HR: 10, BP: 12, Glucose: 1)
+Average at 19:00: HR 106bpm, BP 195/106mmHg, Glucose 234mg/dL (More information - HR: 10, BP: 12, Glucose: 10)
+Average at 20:00: HR 98bpm, BP 190/101mmHg, Glucose 190mg/dL (More information - HR: 3, BP: 12, Glucose: 5)
+Average at 21:00: HR 98bpm, BP 190/106mmHg, Glucose 185mg/dL (More information - HR: 5, BP: 12, Glucose: 3)
+Average at 22:00: HR 90bpm, BP 189/99mmHg, Glucose 187mg/dL (More information - HR: 1, BP: 12, Glucose: 4)
+Average at 23:00: HR 87bpm, BP 198/103mmHg, Glucose 164mg/dL (More information - BP: 12, Glucose: 1)
+
+--- VITAL SIGNS ANOMALIES ---
+Heart Rate Anomalies: 192 occurrences (00:00–22:50)
+Blood Pressure Anomalies (>140/90): 288 occurrences (00:00–23:55)
+Hyperglycemia episodes (>200mg/dL): 93 occurrences (01:25–23:20), max: 329mg/dL
+
+SLEEP ARCHITECTURE:
+  Light: 11 periods (34.4%)
+  Deep: 7 periods (21.9%)
+  REM: 10 periods (31.2%)
+  Awake: 4 periods (12.5%)
+
+AI CLINICAL ANALYSIS:
+Based on the provided data, it is crucial for Mr. Robert Miller to undergo a thorough evaluation by a healthcare professional to address his high blood pressure, hyperglycemia, and abnormal heart rate variability (HRV) patterns. The patient should be advised to adopt lifestyle modifications such as regular exercise, a balanced diet, and stress management techniques to improve overall health outcomes. Medication may also be necessary to manage the high blood pressure and potential diabetes risk. It is important for Mr. Miller to work closely with his healthcare provider to develop an appropriate treatment plan tailored to his specific needs and medical history. This comprehensive approach will help ensure a safe and effective management of his health concerns, ultimately leading to improved well-being and reduced risks associated with cardiovascular disease.

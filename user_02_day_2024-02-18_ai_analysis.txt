@@ -1,0 +1,152 @@
+AI HEALTH ANALYSIS - Sophia Taylor - 2024-02-18
+============================================================
+
+PATIENT PROFILE:
+Patient: Sophia Taylor
+Age: 54 years
+Gender: F
+BMI: 64.8
+Medical History: None reported
+Current Medications: None reported
+
+RAW DATA SUMMARY:
+HEALTH DATA SUMMARY FOR 2024-02-18
+==================================================
+
+SLEEP METRICS:
+  Total sleep: 14.7 hours
+  Deep sleep: 28min (3.1%)
+  REM sleep: 55min (6.2%)
+  Wake time: 584min (66.1%)
+
+PHYSICAL ACTIVITY:
+  Steps: 1,912
+  Calories burned: 164 kcal
+  Distance: 0.78 miles
+
+HEART RATE VARIABILITY:
+  Daily Average HRV: 28.7ms
+  Range: 11.4 - 53.3ms
+  Variability: ±8.4ms
+
+--- HOURLY HRV (ms) ---
+Average HRV at 00:00: 37.5 (Reduced (20-40ms): 4)
+Average HRV at 01:00: 35.6 (Reduced (20-40ms): 5)
+Average HRV at 02:00: 40.5 (Reduced (20-40ms): 3)
+Average HRV at 03:00: 35.7 (Reduced (20-40ms): 5)
+Average HRV at 04:00: 34.6 (Reduced (20-40ms): 5)
+Average HRV at 05:00: 38.7 (Reduced (20-40ms): 3)
+Average HRV at 06:00: 40.3 (Reduced (20-40ms): 3)
+Average HRV at 07:00: 22.2 (Very Low (<20ms): 3, Reduced (20-40ms): 3)
+Average HRV at 08:00: 25.4 (Very Low (<20ms): 1, Reduced (20-40ms): 5)
+Average HRV at 09:00: 26.6 (Reduced (20-40ms): 6)
+Average HRV at 10:00: 24.9 (Very Low (<20ms): 1, Reduced (20-40ms): 5)
+Average HRV at 11:00: 23.1 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 12:00: 25.1 (Reduced (20-40ms): 6)
+Average HRV at 13:00: 23.3 (Reduced (20-40ms): 6)
+Average HRV at 14:00: 24.5 (Reduced (20-40ms): 6)
+Average HRV at 15:00: 23.0 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 16:00: 21.0 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 17:00: 20.4 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 18:00: 23.3 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 19:00: 23.9 (Reduced (20-40ms): 6)
+Average HRV at 20:00: 21.0 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 21:00: 22.3 (Very Low (<20ms): 1, Reduced (20-40ms): 5)
+Average HRV at 22:00: 37.3 (Reduced (20-40ms): 4)
+Average HRV at 23:00: 38.2 (Reduced (20-40ms): 4)
+
+--- HRV CLINICAL INFORMATION ---
+Very Low HRV (<20ms): 18 readings (07:00–21:30)
+  Range: 11.4-19.8ms, Average: 17.0ms
+Reduced HRV (20-40ms): 108 readings (00:00–23:50)
+  Range: 20.0-39.4ms, Average: 28.0ms
+Normal HRV (≥40ms): 18 readings, Average: 44.3ms
+
+OXYGEN SATURATION:
+  Daily Average SpO2: 95.7%
+  Range: 92.5% - 98.2%
+
+--- HOURLY SpO₂ (%) ---
+Average SpO2 at 00:00: 95.8 (Borderline (92-95%): 1)
+Average SpO2 at 01:00: 95.7 (Borderline (92-95%): 1)
+Average SpO2 at 02:00: 96.0
+Average SpO2 at 03:00: 95.6 (Borderline (92-95%): 2)
+Average SpO2 at 04:00: 95.8 (Borderline (92-95%): 3)
+Average SpO2 at 05:00: 95.8
+Average SpO2 at 06:00: 96.2
+Average SpO2 at 07:00: 95.1 (Borderline (92-95%): 3)
+Average SpO2 at 08:00: 95.6
+Average SpO2 at 09:00: 95.6 (Borderline (92-95%): 1)
+Average SpO2 at 10:00: 95.1 (Borderline (92-95%): 2)
+Average SpO2 at 11:00: 95.7 (Borderline (92-95%): 2)
+Average SpO2 at 12:00: 96.2 (Borderline (92-95%): 1)
+Average SpO2 at 13:00: 95.8 (Borderline (92-95%): 2)
+Average SpO2 at 14:00: 95.1 (Borderline (92-95%): 3)
+Average SpO2 at 15:00: 95.7 (Borderline (92-95%): 2)
+Average SpO2 at 16:00: 97.0
+Average SpO2 at 17:00: 94.9 (Borderline (92-95%): 3)
+Average SpO2 at 18:00: 95.4 (Borderline (92-95%): 1)
+Average SpO2 at 19:00: 95.6 (Borderline (92-95%): 2)
+Average SpO2 at 20:00: 95.3 (Borderline (92-95%): 2)
+Average SpO2 at 21:00: 95.5 (Borderline (92-95%): 2)
+Average SpO2 at 22:00: 95.9 (Borderline (92-95%): 1)
+Average SpO2 at 23:00: 95.6 (Borderline (92-95%): 1)
+
+--- SpO₂ CLINICAL INFORMATION ---
+Borderline SpO2 (92-95%): 35 readings (00:10–23:10)
+  Range: 92.5-94.9%, Average: 94.2%
+Normal SpO2 (≥95%): 94 readings, Average: 96.2%
+
+VITAL SIGNS:
+  Daily Averages:
+    Heart rate: 86 bpm
+    Blood pressure: 162/108 mmHg
+    Blood glucose: 95 mg/dL (range: 66-122)
+
+--- HOURLY VITAL SIGNS ---
+Average at 00:00: HR 62bpm, BP 166/108mmHg, Glucose 93mg/dL (More information - BP: 12)
+Average at 01:00: HR 60bpm, BP 165/108mmHg, Glucose 94mg/dL (More information - BP: 12)
+Average at 02:00: HR 67bpm, BP 167/106mmHg, Glucose 97mg/dL (More information - BP: 12)
+Average at 03:00: HR 70bpm, BP 161/108mmHg, Glucose 91mg/dL (More information - BP: 12)
+Average at 04:00: HR 75bpm, BP 165/108mmHg, Glucose 88mg/dL (More information - BP: 12)
+Average at 05:00: HR 80bpm, BP 159/106mmHg, Glucose 96mg/dL (More information - BP: 12)
+Average at 06:00: HR 87bpm, BP 161/111mmHg, Glucose 91mg/dL (More information - BP: 12)
+Average at 07:00: HR 90bpm, BP 159/108mmHg, Glucose 103mg/dL (More information - BP: 12)
+Average at 08:00: HR 101bpm, BP 163/107mmHg, Glucose 93mg/dL (More information - HR: 8, BP: 12)
+Average at 09:00: HR 100bpm, BP 164/108mmHg, Glucose 92mg/dL (More information - HR: 6, BP: 12)
+Average at 10:00: HR 108bpm, BP 150/110mmHg, Glucose 92mg/dL (More information - HR: 11, BP: 12)
+Average at 11:00: HR 107bpm, BP 167/109mmHg, Glucose 90mg/dL (More information - HR: 12, BP: 12)
+Average at 12:00: HR 109bpm, BP 158/106mmHg, Glucose 102mg/dL (More information - HR: 12, BP: 11)
+Average at 13:00: HR 111bpm, BP 166/105mmHg, Glucose 99mg/dL (More information - HR: 12, BP: 12)
+Average at 14:00: HR 106bpm, BP 165/104mmHg, Glucose 95mg/dL (More information - HR: 9, BP: 12)
+Average at 15:00: HR 102bpm, BP 159/111mmHg, Glucose 98mg/dL (More information - HR: 8, BP: 12)
+Average at 16:00: HR 100bpm, BP 160/110mmHg, Glucose 95mg/dL (More information - HR: 6, BP: 12)
+Average at 17:00: HR 90bpm, BP 166/108mmHg, Glucose 91mg/dL (More information - HR: 3, BP: 12)
+Average at 18:00: HR 85bpm, BP 167/107mmHg, Glucose 92mg/dL (More information - BP: 12)
+Average at 19:00: HR 78bpm, BP 160/104mmHg, Glucose 109mg/dL (More information - BP: 12)
+Average at 20:00: HR 76bpm, BP 165/107mmHg, Glucose 103mg/dL (More information - BP: 12)
+Average at 21:00: HR 69bpm, BP 163/110mmHg, Glucose 92mg/dL (More information - BP: 12)
+Average at 22:00: HR 66bpm, BP 157/106mmHg, Glucose 91mg/dL (More information - BP: 12)
+Average at 23:00: HR 63bpm, BP 166/111mmHg, Glucose 94mg/dL (More information - BP: 12)
+
+--- VITAL SIGNS ANOMALIES ---
+Heart Rate Anomalies: 87 occurrences (08:05–17:55)
+Blood Pressure Anomalies (>140/90): 287 occurrences (00:00–23:55)
+
+SLEEP ARCHITECTURE:
+  Light: 3 periods (37.5%)
+  Deep: 0 periods (0.0%)
+  REM: 2 periods (25.0%)
+  Awake: 3 periods (37.5%)
+
+AI CLINICAL ANALYSIS:
+Dear Sophia Taylor, Your health data for February 18, 2023, reveals several concerning findings that warrant immediate attention. Firstly, your blood pressure consistently exceeded the normal range throughout the day with an average of 162/108 mmHg, which is a significant risk factor for cardiovascular complications and may necessitate medication or lifestyle modifications. Secondly, your heart rate exhibited an unusual pattern, starting with a low resting heart rate in the morning that gradually increased throughout the day, peaking at 108 bpm in the late afternoon. This fluctuation could be indicative of underlying cardiovascular issues and should be further evaluated by a healthcare provider.
+
+Sophia, your sleep quality was poor, with a significant amount of time spent awake during the night, which may contribute to your fatigue and potentially impact your overall health. It is recommended that you seek advice from a healthcare provider regarding strategies to improve your sleep hygiene. Lastly, while your blood glucose levels remained within the normal range (66-122 mg/dL), your average reading of 95 mg/dL was on the lower end and may indicate a need for increased carbohydrate intake or a review of your current medication regimen.
+
+In conclusion, it is crucial that you consult with your healthcare provider for a comprehensive evaluation of your hypertension, fluctuating heart rate, poor sleep quality, and potential blood glucose concerns. The healthcare provider may recommend medication, lifestyle modifications, or further testing to manage these issues effectively and prevent any potential health complications. It is also recommended that you seek advice on strategies to improve your sleep hygiene for better overall health.
+
+We encourage you to take an active role in managing your health and work closely with your healthcare team to achieve optimal wellness. Please do not hesitate to reach out if you have any questions or concerns.
+
+Best regards,
+Chief Medical Summarizer

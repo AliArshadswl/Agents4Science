@@ -1,0 +1,143 @@
+AI HEALTH ANALYSIS - Sophia Taylor - 2024-02-21
+============================================================
+
+PATIENT PROFILE:
+Patient: Sophia Taylor
+Age: 54 years
+Gender: F
+BMI: 64.8
+Medical History: None reported
+Current Medications: None reported
+
+RAW DATA SUMMARY:
+HEALTH DATA SUMMARY FOR 2024-02-21
+==================================================
+
+SLEEP METRICS:
+  Total sleep: 12.5 hours
+  Deep sleep: 58min (7.7%)
+  REM sleep: 42min (5.6%)
+  Wake time: 388min (51.6%)
+
+PHYSICAL ACTIVITY:
+  Steps: 113
+  Calories burned: 10 kcal
+  Distance: 0.03 miles
+
+HEART RATE VARIABILITY:
+  Daily Average HRV: 29.1ms
+  Range: 13.1 - 49.6ms
+  Variability: ±9.9ms
+
+--- HOURLY HRV (ms) ---
+Average HRV at 00:00: 42.1 (Reduced (20-40ms): 3)
+Average HRV at 01:00: 41.2 (Reduced (20-40ms): 2)
+Average HRV at 02:00: 42.5 (Reduced (20-40ms): 1)
+Average HRV at 03:00: 36.9 (Reduced (20-40ms): 4)
+Average HRV at 04:00: 37.4 (Reduced (20-40ms): 3)
+Average HRV at 05:00: 41.4 (Reduced (20-40ms): 2)
+Average HRV at 06:00: 41.8 (Reduced (20-40ms): 2)
+Average HRV at 07:00: 21.9 (Very Low (<20ms): 1, Reduced (20-40ms): 5)
+Average HRV at 08:00: 25.2 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 09:00: 26.0 (Reduced (20-40ms): 6)
+Average HRV at 10:00: 27.3 (Reduced (20-40ms): 6)
+Average HRV at 11:00: 24.3 (Reduced (20-40ms): 6)
+Average HRV at 12:00: 21.3 (Very Low (<20ms): 4, Reduced (20-40ms): 2)
+Average HRV at 13:00: 21.1 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 14:00: 21.6 (Very Low (<20ms): 3, Reduced (20-40ms): 3)
+Average HRV at 15:00: 23.6 (Very Low (<20ms): 1, Reduced (20-40ms): 5)
+Average HRV at 16:00: 21.5 (Very Low (<20ms): 1, Reduced (20-40ms): 5)
+Average HRV at 17:00: 19.8 (Very Low (<20ms): 3, Reduced (20-40ms): 3)
+Average HRV at 18:00: 23.2 (Reduced (20-40ms): 6)
+Average HRV at 19:00: 21.0 (Very Low (<20ms): 2, Reduced (20-40ms): 4)
+Average HRV at 20:00: 19.0 (Very Low (<20ms): 3, Reduced (20-40ms): 3)
+Average HRV at 21:00: 20.0 (Very Low (<20ms): 4, Reduced (20-40ms): 2)
+Average HRV at 22:00: 39.3 (Reduced (20-40ms): 4)
+Average HRV at 23:00: 37.9 (Reduced (20-40ms): 4)
+
+--- HRV CLINICAL INFORMATION ---
+Very Low HRV (<20ms): 26 readings (07:30–21:50)
+  Range: 13.1-20.0ms, Average: 17.3ms
+Reduced HRV (20-40ms): 89 readings (00:00–23:50)
+  Range: 20.1-39.8ms, Average: 27.6ms
+Normal HRV (≥40ms): 29 readings, Average: 44.0ms
+
+OXYGEN SATURATION:
+  Daily Average SpO2: 95.5%
+  Range: 92.0% - 98.5%
+
+--- HOURLY SpO₂ (%) ---
+Average SpO2 at 00:00: 96.0 (Borderline (92-95%): 1)
+Average SpO2 at 01:00: 95.2 (Borderline (92-95%): 3)
+Average SpO2 at 02:00: 96.0 (Borderline (92-95%): 1)
+Average SpO2 at 03:00: 95.8 (Borderline (92-95%): 1)
+Average SpO2 at 04:00: 95.7 (Borderline (92-95%): 2)
+Average SpO2 at 05:00: 96.3
+Average SpO2 at 06:00: 94.8 (Borderline (92-95%): 3)
+Average SpO2 at 07:00: 96.1
+Average SpO2 at 08:00: 95.0 (Borderline (92-95%): 3)
+Average SpO2 at 09:00: 95.1 (Borderline (92-95%): 4)
+Average SpO2 at 10:00: 96.4
+Average SpO2 at 11:00: 95.5 (Borderline (92-95%): 1)
+Average SpO2 at 12:00: 95.8 (Borderline (92-95%): 1)
+Average SpO2 at 13:00: 95.2 (Borderline (92-95%): 2)
+Average SpO2 at 14:00: 95.1 (Borderline (92-95%): 2)
+Average SpO2 at 15:00: 95.5 (Borderline (92-95%): 2)
+Average SpO2 at 16:00: 95.8 (Borderline (92-95%): 2)
+Average SpO2 at 17:00: 96.1 (Borderline (92-95%): 1)
+Average SpO2 at 18:00: 95.9
+Average SpO2 at 19:00: 94.6 (Borderline (92-95%): 3)
+Average SpO2 at 20:00: 95.0 (Borderline (92-95%): 2)
+Average SpO2 at 21:00: 94.9 (Borderline (92-95%): 3)
+Average SpO2 at 22:00: 95.8 (Borderline (92-95%): 2)
+Average SpO2 at 23:00: 95.6 (Borderline (92-95%): 2)
+
+--- SpO₂ CLINICAL INFORMATION ---
+Borderline SpO2 (92-95%): 41 readings (00:20–23:50)
+  Range: 92.0-94.9%, Average: 94.1%
+Normal SpO2 (≥95%): 88 readings, Average: 96.2%
+
+VITAL SIGNS:
+  Daily Averages:
+    Heart rate: 79 bpm
+    Blood pressure: 167/109 mmHg
+    Blood glucose: 96 mg/dL (range: 73-126)
+
+--- HOURLY VITAL SIGNS ---
+Average at 00:00: HR 56bpm, BP 167/109mmHg, Glucose 93mg/dL (More information - HR: 3, BP: 12)
+Average at 01:00: HR 58bpm, BP 167/108mmHg, Glucose 93mg/dL (More information - BP: 12)
+Average at 02:00: HR 59bpm, BP 164/110mmHg, Glucose 93mg/dL (More information - HR: 1, BP: 12)
+Average at 03:00: HR 62bpm, BP 164/109mmHg, Glucose 94mg/dL (More information - BP: 12)
+Average at 04:00: HR 67bpm, BP 168/107mmHg, Glucose 88mg/dL (More information - BP: 12)
+Average at 05:00: HR 74bpm, BP 170/108mmHg, Glucose 93mg/dL (More information - BP: 12)
+Average at 06:00: HR 82bpm, BP 167/112mmHg, Glucose 92mg/dL (More information - BP: 12)
+Average at 07:00: HR 86bpm, BP 170/107mmHg, Glucose 109mg/dL (More information - HR: 1, BP: 12)
+Average at 08:00: HR 92bpm, BP 165/108mmHg, Glucose 100mg/dL (More information - HR: 1, BP: 12)
+Average at 09:00: HR 94bpm, BP 167/108mmHg, Glucose 94mg/dL (More information - HR: 3, BP: 12)
+Average at 10:00: HR 97bpm, BP 164/108mmHg, Glucose 96mg/dL (More information - HR: 4, BP: 12)
+Average at 11:00: HR 100bpm, BP 168/109mmHg, Glucose 89mg/dL (More information - HR: 6, BP: 12)
+Average at 12:00: HR 102bpm, BP 163/108mmHg, Glucose 108mg/dL (More information - HR: 8, BP: 12)
+Average at 13:00: HR 102bpm, BP 172/107mmHg, Glucose 98mg/dL (More information - HR: 7, BP: 12)
+Average at 14:00: HR 101bpm, BP 170/113mmHg, Glucose 94mg/dL (More information - HR: 8, BP: 12)
+Average at 15:00: HR 95bpm, BP 168/109mmHg, Glucose 95mg/dL (More information - HR: 1, BP: 12)
+Average at 16:00: HR 91bpm, BP 172/108mmHg, Glucose 98mg/dL (More information - BP: 12)
+Average at 17:00: HR 85bpm, BP 163/108mmHg, Glucose 89mg/dL (More information - BP: 12)
+Average at 18:00: HR 81bpm, BP 169/112mmHg, Glucose 94mg/dL (More information - BP: 12)
+Average at 19:00: HR 73bpm, BP 167/110mmHg, Glucose 107mg/dL (More information - BP: 12)
+Average at 20:00: HR 69bpm, BP 163/108mmHg, Glucose 95mg/dL (More information - BP: 12)
+Average at 21:00: HR 65bpm, BP 170/113mmHg, Glucose 95mg/dL (More information - BP: 12)
+Average at 22:00: HR 60bpm, BP 166/110mmHg, Glucose 90mg/dL (More information - BP: 12)
+Average at 23:00: HR 56bpm, BP 173/111mmHg, Glucose 95mg/dL (More information - HR: 3, BP: 12)
+
+--- VITAL SIGNS ANOMALIES ---
+Heart Rate Anomalies: 46 occurrences (00:10–23:40)
+Blood Pressure Anomalies (>140/90): 288 occurrences (00:00–23:55)
+
+SLEEP ARCHITECTURE:
+  Light: 10 periods (31.2%)
+  Deep: 8 periods (25.0%)
+  REM: 7 periods (21.9%)
+  Awake: 7 periods (21.9%)
+
+AI CLINICAL ANALYSIS:
+Given the current health data, Sophia Taylor's health status presents some concerns due to obesity (BMI 45.3), high blood pressure (167/109 mmHg), and high heart rate (79 bpm). The poor sleep quality and low physical activity level further increase the risks. To address these issues, we recommend engaging in a supervised weight loss program under a healthcare professional's guidance, including regular exercise, a balanced diet, and medication management for blood pressure control if necessary. Improving sleep quality through good sleep hygiene practices is also essential. Additionally, further investigation into the heart rate anomalies is required to ensure proper treatment. Regular follow-ups with your healthcare provider are crucial for ongoing monitoring and management of your health condition. We encourage you to stay committed to this plan for a healthier future.
