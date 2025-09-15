@@ -136,9 +136,11 @@ MIT License - see LICENSE file for details.
 
 ```bibtex
 @software{health_ai_analysis_2024,
-  title={Health AI Analysis System: Multi-Agent Approach to Health Data Interpretation},
-  author={Health AI Research Team},
-  year={2024}
+  title={Personalized Remote Health Monitoring and Clinical
+Report Generation Using Multi-Agent LLM
+Framework on Wearable Data},
+  author={Muhammad Ali Arshad},
+  year={2025}
 }
 ```
 
@@ -174,4 +176,5 @@ To download and set up this repository:
 Note: This provides the core framework. Additional implementation files for
 complete agents, evaluation metrics, and experiment runners should be added
 based on the full artifact code provided earlier.
+
 """
